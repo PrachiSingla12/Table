@@ -3,7 +3,7 @@
     
     int main() {
     
-       cout << "enter the size of matrix : ";
+       cout << "enter the sizE of matrix : ";
        int m,n;
        cin >> m;
        cin >> n;
